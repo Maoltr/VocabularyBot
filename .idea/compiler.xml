@@ -9,8 +9,8 @@
         <module name="VocabularyBot" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="VocabularyBot" target="1.6" />
+    <bytecodeTargetLevel target="8">
+      <module name="VocabularyBot" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
